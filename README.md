@@ -4,3 +4,5 @@ Project Todo list:
 - [ ] Convert all c++ classes to c++ regular source (This may not be right.)
 - [x] Fix Crashing upon startup
 - [ ] Finsh adding/making ini configuation
+- [ ] Update Github Repo
+- [ ] Do programming
