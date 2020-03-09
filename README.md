@@ -6,3 +6,4 @@ Project Todo list:
 - [ ] Finsh adding/making ini configuation
 - [ ] Update Github Repo
 - [ ] Do programming
+- [ ] Upload Actual Project Files to github
